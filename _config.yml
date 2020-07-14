@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: qinxun's blog
+subtitle: 
+description: 对有益的知识的追求<br>对正直的人生的良心的见证<br>对过往美好功绩的回忆<br>会给灵魂带来无上的安慰
+keywords: 
+author: qinxun
+language: zh-Hans
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://qin-xun.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,9 +73,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/qin-xun/qin-xun.github.io.git
+  branch: master
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

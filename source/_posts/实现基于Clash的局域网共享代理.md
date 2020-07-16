@@ -1,7 +1,7 @@
 title: 实现基于Clash的局域网共享代理
 date: 2020-07-14 23:15:59
 categories: [电脑使用教程]
-description: 在激活Oculus Quest设备时，手机需要从Google Play Store安装Oculus。在与Quest配对时，发现无法连接wifi，得知原因是quest要在连接后通过访问oculus.com获得相关服务。
+description: 在激活Oculus Quest设备时，手机需要从Google Play Store安装Oculus。在与Quest配对时，发现无法连接wifi，得知原因是Quest要在连接后通过访问oculus.com获得相关服务。
 ---
 # 前言
 
@@ -48,3 +48,7 @@ experimental:
 
 手机连接笔记本电脑开启的热点就可以使用魔法了~
 
+# 参考链接
+[TAP模式](https://docs.cfw.lbyczf.com/contents/tap.html)
+[Oculus Quest国内玩家无障碍使用指南](http://m.vr42.com/t/187#ID327c78f777e4f7fd28c5e9c44bb5fd19)
+[使用Clash For Windows的TAP网卡代理所有网络流量](https://www.xkww3n.life/2020/02/13/clash-tap-network-adapter/)

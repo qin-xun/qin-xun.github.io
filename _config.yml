@@ -96,24 +96,3 @@ symbols_count_time:
  # 网页底部是否显示
   total_symbols: true
   total_time: true
-
-toc:
-  maxdepth: 3
-  class: toc
-  slugify: transliteration
-  decodeEntities: false
-  anchor:
-    position: after
-    symbol: '#'
-    style: header-anchor
-
-markdown_it_plus:
-    highlight: true
-    html: true
-    xhtmlOut: true
-    breaks: true
-    langPrefix:
-    linkify: true
-    typographer:
-    quotes: “”‘’
-    pre_class: highlight

@@ -36,7 +36,7 @@ experimental:
 
 # 配置网络适配器
 
-点击 TAP Device，安装tap网卡，在 控制面板\网络和 Internet\网络连接 中会出现TAP开头的网卡：
+点击Clash Dashboard中的 TAP Device Manager，会安装tap网卡，在 控制面板\网络和 Internet\网络连接 中会出现TAP开头的网卡：
 
 ![](3.png)
 

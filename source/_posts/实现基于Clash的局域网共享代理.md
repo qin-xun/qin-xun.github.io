@@ -1,7 +1,9 @@
 title: 实现基于Clash的局域网共享代理
 date: 2020-07-14 23:15:59
-categories: [windows]
-tags: [网络]
+categories: 
+ - [windows]
+tags: 
+ - [网络]
 description: 在激活Oculus Quest设备时，手机需要从Google Play Store安装Oculus。在与Quest配对时，发现无法连接wifi，得知原因是Quest要在连接后通过访问oculus.com获得相关服务。
 ---
 # 前言

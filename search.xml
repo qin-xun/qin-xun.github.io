@@ -6,17 +6,17 @@
     <content><![CDATA[<p>Welcome to <a href="https://qin-xun.github.io">qinxun’s blog</a>! Hope you can enjoy it!</p>
 <h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
 <h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
 <h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
 <h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       <categories>
         <category>测试</category>
@@ -74,9 +74,9 @@
             </figure>
 <p>手机连接笔记本电脑开启的热点就可以使用魔法了~</p>
 <h1 id="参考链接"><a class="markdownIt-Anchor" href="#参考链接"></a> 参考链接</h1>
-<p><a href="https://docs.cfw.lbyczf.com/contents/tap.html">TAP模式</a><br>
-<a href="http://m.vr42.com/t/187#ID327c78f777e4f7fd28c5e9c44bb5fd19">Oculus Quest国内玩家无障碍使用指南</a><br>
-<a href="https://www.xkww3n.life/2020/02/13/clash-tap-network-adapter/">使用Clash For Windows的TAP网卡代理所有网络流量</a></p>
+<p><a href="https://docs.cfw.lbyczf.com/contents/tap.html" target="_blank" rel="noopener">TAP模式</a><br>
+<a href="http://m.vr42.com/t/187#ID327c78f777e4f7fd28c5e9c44bb5fd19" target="_blank" rel="noopener">Oculus Quest国内玩家无障碍使用指南</a><br>
+<a href="https://www.xkww3n.life/2020/02/13/clash-tap-network-adapter/" target="_blank" rel="noopener">使用Clash For Windows的TAP网卡代理所有网络流量</a></p>
 ]]></content>
       <categories>
         <category>windows</category>

@@ -26,6 +26,40 @@
       </tags>
   </entry>
   <entry>
+    <title>基于everyProxy+任意科学上网软件实现免root手机热点代理共享</title>
+    <url>/2021/02/28/%E5%9F%BA%E4%BA%8EeveryProxy+%E4%BB%BB%E6%84%8F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%BD%AF%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%85%8Droot%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9%E4%BB%A3%E7%90%86%E5%85%B1%E4%BA%AB/</url>
+    <content><![CDATA[<h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1>
+<p>近来看到很多朋友在群里询问如何激活Oculus Quest2，很多网友回复淘宝购买软路由包解决一切问题，<br>
+感觉十分没有必要，通过查阅网络资料，向大家分享如何在不购买和设置软路由的情况下实现无成本热点代理共享。<br>
+此方法只能实现http协议下的代理共享。</p>
+<h1 id="准备工作"><a class="markdownIt-Anchor" href="#准备工作"></a> 准备工作</h1>
+<ul>
+<li>
+<p>VPN/飞机场/流量</p>
+</li>
+<li>
+<p>Google Play Store下载everyProxy</p>
+</li>
+</ul>
+<h1 id="操作步骤"><a class="markdownIt-Anchor" href="#操作步骤"></a> 操作步骤</h1>
+<ol>
+<li>开启手机热点，开启代理软件。</li>
+<li>开启everyProxy，出现EveryProxy: Started HTTP proxy 192.168.43.1:8080的提示则表明已正常开启。<br>
+<img src="/2021/02/28/%E5%9F%BA%E4%BA%8EeveryProxy+%E4%BB%BB%E6%84%8F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%BD%AF%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%85%8Droot%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9%E4%BB%A3%E7%90%86%E5%85%B1%E4%BA%AB/1.jpg" alt></li>
+<li>在OC2或另一台设备上连接先前手机开启的热点，点击详细信息-点击代理-切换为手动，并进行如下设置：<br>
+主机名：192.168.43.1<br>
+端口：8081<br>
+该设备即可成功实现魔法上网。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>网络</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>实现基于Clash的局域网共享代理</title>
     <url>/2020/07/15/%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8EClash%E7%9A%84%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E4%BB%A3%E7%90%86/</url>
     <content><![CDATA[<h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1>
@@ -56,40 +90,6 @@
 ]]></content>
       <categories>
         <category>windows</category>
-      </categories>
-      <tags>
-        <tag>网络</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>基于everyProxy+任意科学上网软件实现免root手机热点代理共享</title>
-    <url>/2021/02/28/%E5%9F%BA%E4%BA%8EeveryProxy+%E4%BB%BB%E6%84%8F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%BD%AF%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%85%8Droot%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9%E4%BB%A3%E7%90%86%E5%85%B1%E4%BA%AB/</url>
-    <content><![CDATA[<h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1>
-<p>近来看到很多朋友在群里询问如何激活Oculus Quest2，很多网友回复淘宝购买软路由包解决一切问题，<br>
-感觉十分没有必要，通过查阅网络资料，向大家分享如何在不购买和设置软路由的情况下实现无成本热点代理共享。<br>
-此方法只能实现http协议下的代理共享。</p>
-<h1 id="准备工作"><a class="markdownIt-Anchor" href="#准备工作"></a> 准备工作</h1>
-<ul>
-<li>
-<p>VPN/飞机场/流量</p>
-</li>
-<li>
-<p>Google Play Store下载everyProxy</p>
-</li>
-</ul>
-<h1 id="操作步骤"><a class="markdownIt-Anchor" href="#操作步骤"></a> 操作步骤</h1>
-<ol>
-<li>开启手机热点，开启代理软件。</li>
-<li>开启everyProxy，出现EveryProxy: Started HTTP proxy 192.168.43.1:8080的提示则表明已正常开启。<br>
-<img src="/2021/02/28/%E5%9F%BA%E4%BA%8EeveryProxy+%E4%BB%BB%E6%84%8F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%BD%AF%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%85%8Droot%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9%E4%BB%A3%E7%90%86%E5%85%B1%E4%BA%AB/1.jpg" alt></li>
-<li>在OC2或另一台设备上连接先前手机开启的热点，点击详细信息-点击代理-切换为手动，并进行如下设置：<br>
-主机名：192.168.43.1<br>
-端口：8081<br>
-该设备即可成功实现魔法上网。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Android</category>
       </categories>
       <tags>
         <tag>网络</tag>

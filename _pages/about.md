@@ -26,7 +26,7 @@ Previously, I entered [the Department of Information Engineering](https://www.ss
 During my graduate, I work closely with Prof. [Jingsong Yu](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1640-%E4%BF%9E%E6%95%AC%E6%9D%BE.html) and Dr. [Zhijun Gao](https://www.researchgate.net/profile/Zhijun-Gao) at [PKUX Lab](http://pkuxlab.org/), Prof. [Yunhong Zhang](https://dblp.org/pid/165/2901.html) at and [Human Factor and Intelligent Interaction Lab](https://www.cnis.ac.cn/bzsy/ryygx/rxtjhyyhty/).
 
 # 📖 Educations
-- *2019.09 - 2022.06*, Graduate, Computer Science and Technology, Peking University, Beijing
+- *2019.09 - 2022.06*, Graduate, Computer Science and Technology, Peking University, Beijing.
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 Our paper about parsing and mapping between requirement-text and code was received by CCML'2023.
@@ -37,7 +37,7 @@ During my graduate, I work closely with Prof. [Jingsong Yu](https://www.ss.pku.e
 # 💻 Research Experience
 
 
-- *2021.10 - 2022.06*, **Research Assistant**, **Institute of Scientific and Technical Information of China**, Beijing.
+- *2020.10 - 2021.11*, **Research Assistant**, **Institute of Scientific and Technical Information of China**, Beijing.
 
 
 - *2021.07 - 2021.09*, **Research Assistant**, **[Human Factor and Intelligent Interaction Lab, China National Institute of Standardization](https://www.cnis.ac.cn/bzsy/ryygx/rxtjhyyhty/)**, Beijing.
@@ -79,6 +79,36 @@ Yao Liu, Lu Ye, **Xun Qin**
 - Proposed a refined TriDNR model that combines reasoning relation for a single chapter, and a knowledge network representation model that combines different chapters.
 </div>
 </div>
+
+# 🏢 Work Experience
+
+- *2022.7 - Now*, **Information Experience Engineer**, **[Huawei](http://www.huawei.com)**, Beijing.
+- 
+  - **[Hardware Configuration Tool](https://info.support.huawei.com/info-finder/tool/en/enterprise/hardware-configuration-tool?keyword=02353CWC&productModel=CR8PBKP08DC0)**
+    - Designed the updating and numerical computing mechanism of hardware specifications and relation data. 
+    - Proposed the interactive and visualization method of component options and pictures.
+
+  - **AutoExcel**
+    - Completed the function design and UI design of the form automatic processing tool and developed into a GUI software based on pyQt, to realize the automatic processing of form data according to the business requirements.
+
+  - **Image Match and Coordinate Extract Tool**
+    - Used openCV to match pictures of the device's parts and return the coordinates where they are located.
+
+- *2021.12 - 2022.6*, **Digital Strategist**, **[Wanfang Data](http://www.wanfangdata.com)**, Beijing.
+- 
+  - **Knowledge Graph Construction System for the Great Wall History and Culture**
+    - XML schemas design about the Great Wall, including the history, architecture, weapons, wars, spots, cultural relics, villages, literary works and so on. 
+    - Resource Structuralization, the Great Wall ontology and relation mining, regarding villages as pivotal concepts.
+    - Explore the development of villages in spatial and temporal dimensions and laying foundation for network visualization.
+
+  - **Big Data Platform for Nursing Medicine**
+    - Structuralized and integrated 60+ books, 1 million+ articles in 240+ journals in nursing and retrieved 20,000 concepts and 50 properties collaboratively. 
+    - Provided support resources for downstream services including semantic retrieval, auto-generated wiki and abstract. 
+
+  - **Knowledge Structure Construction System in Chemistry**
+   - Structuralized and integrated 5000+ books, 215 million+ paragraphs collaboratively.
+   - Built chemical ontologies including chemical products, components, equipment, factories and manufacturing techniques, etc. Retrieved 21711 concepts (17358 with semantic index), 214 properties, 786 pairs of related entities collaboratively.
+
 
 # 🎖 Honors and Awards
 - Second-prize Scholarship of Peking University

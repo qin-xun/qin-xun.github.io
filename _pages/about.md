@@ -83,7 +83,6 @@ Yao Liu, Lu Ye, **Xun Qin**
 # 🏢 Work Experience
 
 - *2022.7 - Now*, **Information Experience Engineer**, **[Huawei](http://www.huawei.com)**, Beijing.
-- 
   - **[Hardware Configuration Tool](https://info.support.huawei.com/info-finder/tool/en/enterprise/hardware-configuration-tool?keyword=02353CWC&productModel=CR8PBKP08DC0)**
     - Designed the updating and numerical computing mechanism of hardware specifications and relation data. 
     - Proposed the interactive and visualization method of component options and pictures.
@@ -95,7 +94,6 @@ Yao Liu, Lu Ye, **Xun Qin**
     - Used openCV to match pictures of the device's parts and return the coordinates where they are located.
 
 - *2021.12 - 2022.6*, **Digital Strategist**, **[Wanfang Data](http://www.wanfangdata.com)**, Beijing.
-- 
   - **Knowledge Graph Construction System for the Great Wall History and Culture**
     - XML schemas design about the Great Wall, including the history, architecture, weapons, wars, spots, cultural relics, villages, literary works and so on. 
     - Resource Structuralization, the Great Wall ontology and relation mining, regarding villages as pivotal concepts.

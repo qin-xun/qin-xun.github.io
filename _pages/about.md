@@ -62,7 +62,7 @@ Yao Liu, **Xun Qin**, Tianji Liu
 
 [Key Technologies of Event Base Construction and Event Detection in the Field of Science and Technology](http://qikan.cqvip.com/Qikan/Article/Detail?id=7108524594)
 
-Yao Liu, **Xun Qin**, Tianji Liu
+Yao Liu, Xiaowei Fang, **Xun Qin**
 
 - Proposed a two-branch transformer model for risk events, one branch maximizing the lexical features of risk events texts, and the other weakening the features of domain texts. 
 - Ultimately formed a method to build a risk event base and event detection model in the field of science and technology.

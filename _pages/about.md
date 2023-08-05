@@ -64,7 +64,7 @@ Yao Liu, **Xun Qin**, Tianji Liu
 
 Yao Liu, **Xun Qin**, Tianji Liu
 
-- Proposed a two-branch transformer model for risk events identification and classification, one branch extracting lexical features of risk events texts, and the other weakening the features of general text. 
+- Proposed a two-branch transformer model for risk events, one branch maximizing the lexical features of risk events texts, and the other weakening the features of domain texts. 
 - Ultimately formed a method to build a risk event base and event detection model in the field of science and technology.
 </div>
 </div>

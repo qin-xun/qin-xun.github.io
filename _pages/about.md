@@ -23,7 +23,6 @@ I strive to push the limits of productivity and work-efficiency by conducting re
 My focus is on developing next-generation automated working systems with digital computation and minimal human cognition.
 
 Previously, I entered [the Department of Information Engineering](https://www.ss.pku.edu.cn/education/department/department-datc.html)(School of Software & Microelectronics), Peking University in 2022 and obtained my Master's degree in Computer Science and Technology, advised by Prof. Yao Liu.
-During my graduate, I work closely with Prof. [Jingsong Yu](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1640-%E4%BF%9E%E6%95%AC%E6%9D%BE.html) and Dr. [Zhijun Gao](https://www.researchgate.net/profile/Zhijun-Gao) at [PKUX Lab](http://pkuxlab.org/), Prof. [Yunhong Zhang](https://dblp.org/pid/165/2901.html) at and [Human Factor and Intelligent Interaction Lab](https://www.cnis.ac.cn/bzsy/ryygx/rxtjhyyhty/).
 
 # 📖 Educations
 - *2019.09 - 2022.06*, Graduate, Computer Science and Technology, Peking University, Beijing.
